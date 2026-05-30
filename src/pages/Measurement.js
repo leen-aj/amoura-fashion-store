@@ -218,7 +218,7 @@ function Measurement() {
           </table>
 
           <p className="text-center text-secondary mt-3">
-            Compare your measurements with the table above to find your best fit 💖
+            Compare your measurements with the table above to find your best fit !💖
           </p>
 
         </div>
@@ -228,5 +228,5 @@ function Measurement() {
     </div>
   );
 }
-
+// routing completed
 export default Measurement;

@@ -1,4 +1,4 @@
-// routing completed
+
 import { Link } from "react-router-dom";
 import { FaCrown, FaHeart, FaShoppingBag, FaUser } from "react-icons/fa";
 
