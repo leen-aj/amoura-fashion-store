@@ -496,5 +496,5 @@ function StyleQuiz() {
     </div>
   );
 }
-//fghj
+
 export default StyleQuiz;
