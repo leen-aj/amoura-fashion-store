@@ -17,7 +17,7 @@ function Navbar() {
       Amour
     </Link>
 
-    {/* Hamburger Button */}
+ 
     <button
       className="navbar-toggler"
       type="button"
@@ -27,7 +27,7 @@ function Navbar() {
       <span className="navbar-toggler-icon"></span>
     </button>
 
-    {/* Collapsible Content */}
+
     <div
       className="collapse navbar-collapse"
       id="navbarContent"
