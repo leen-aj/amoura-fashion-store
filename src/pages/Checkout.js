@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+//jkkjhghjp
 function Checkout() {
     const navigate = useNavigate();
   const [fullName, setFullName] = useState("");
