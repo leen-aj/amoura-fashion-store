@@ -1,4 +1,4 @@
-// test commit
+// Home page completed
 import { Link } from "react-router-dom";
 
 function Home() {
@@ -250,5 +250,5 @@ function Home() {
     </>
   );
 }
-// Home page completed
+
 export default Home;
