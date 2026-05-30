@@ -81,6 +81,7 @@ http://localhost:3000
 ### Style Quiz Page
 <img width="1349" height="636" alt="quiz1" src="https://github.com/user-attachments/assets/a612e384-93af-4eaf-823c-75c311d8b28d" /> 
 <img width="1314" height="624" alt="quiz2" src="https://github.com/user-attachments/assets/084f3318-d0b8-4ad6-8240-757fa8ee0fc6" />
+
 ### Measurements Page
 <img width="1353" height="633" alt="measurement1" src="https://github.com/user-attachments/assets/2617d864-598d-47a0-8c84-74fcce508719" />
 <img width="1321" height="613" alt="measurement2" src="https://github.com/user-attachments/assets/7a57869a-5d81-434a-ab86-6f8435a2bb52" />
