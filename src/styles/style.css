@@ -457,3 +457,12 @@ footer {
 .icons a:hover {
   color: white !important;
 }
+.navbar-toggler {
+  border-color: #ffb6d9;
+}
+
+.navbar-toggler-icon {
+  filter: invert(83%) sepia(23%) saturate(596%)
+          hue-rotate(287deg) brightness(103%)
+          contrast(101%);
+}

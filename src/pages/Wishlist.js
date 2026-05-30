@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import "../styles/wishlist.css"
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
 function Wishlist() {
 
