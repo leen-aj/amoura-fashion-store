@@ -192,44 +192,7 @@ footer {
         height: 50vh;
     }
 }
-.menu-toggle {
-    display: none;
-}
-.menu-icon {
-    display: none;
-    font-size: 28px;
-    color: var(--pink);
-    cursor: pointer;
-}
-.nav-links {
-    display: flex;
-    align-items: center;
-}
-@media (max-width: 768px) {
-    .menu-icon {
-        display: block;
-    }
-    .nav-links {
-        position: absolute;
-        top: 70px;
-        left: 0;
-        width: 100%;
-        background: black;
-        flex-direction: column;
-        align-items: center;
-        display: none;
-        padding: 20px 0;
-        border-top: 1px solid #222;
-    }
-    .nav-links a {
-        padding: 12px;
-        width: 100%;
-        text-align: center;
-    }
-    .menu-toggle:checked + .menu-icon + .nav-links {
-        display: flex;
-    }
-}
+
 .section {
     padding: 40px;
 }
@@ -490,4 +453,51 @@ footer {
 
 .icons a {
   font-size: 20px;
+}
+/* Bootstrap Mobile Navbar Fix */
+
+.navbar-toggler {
+    border: 1px solid #ffb6d9 !important;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.navbar-toggler-icon {
+    filter: invert(83%) sepia(23%) saturate(596%)
+            hue-rotate(287deg) brightness(103%)
+            contrast(101%);
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.icons a {
+    color: #ffb6d9 !important;
+    font-size: 20px;
+}
+
+.icons a:hover {
+    color: white !important;
+}
+
+@media (max-width: 991px) {
+
+    .navbar-collapse {
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .icons {
+        justify-content: center;
+        margin-top: 15px;
+    }
+
+    .btn-pink {
+        margin-top: 10px;
+    }
 }
