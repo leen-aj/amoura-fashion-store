@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "../styles/wishlist.css"
-
+//hdskhc
 function Wishlist() {
 
   const [items, setItems] = useState([]);
