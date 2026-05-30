@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Amoura Fashion Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
 
-## Available Scripts
+Amoura Fashion Store is a React-based online fashion shopping website. Users can browse products, add items to the cart, save favorites to a wishlist, take a personalized style quiz, check recommended outfits, enter body measurements to find their size, and complete purchases through the checkout page.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Product catalog by category
+- Shopping cart with quantity updates
+- Wishlist management
+- Style quiz with recommendations
+- Outfit suggestions
+- Measurement and size guide
+- Checkout page
+- Responsive design
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Local Storage
 
-### `npm test`
+## Setup Instructions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository:
 
-### `npm run build`
+```bash
+git clone https://github.com/leen-aj/amoura-fashion-store.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Open the project folder:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+cd fashionstore
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install dependencies:
 
-### `npm run eject`
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Run the project:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5. Open:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```text
+http://localhost:3000
+```
 
-## Learn More
+## Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Home Page
+<img width="1353" height="618" alt="homepage1" src="https://github.com/user-attachments/assets/71fecb4d-5d16-4f11-947c-16787cd98b04" />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Products Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+(Add screenshot here)
 
-### Analyzing the Bundle Size
+### Cart Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+(Add screenshot here)
 
-### Making a Progressive Web App
+### Wishlist Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+(Add screenshot here)
 
-### Advanced Configuration
+### Style Quiz Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+(Add screenshot here)
 
-### Deployment
+### Measurements Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+(Add screenshot here)
 
-### `npm run build` fails to minify
+### Checkout Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+(Add screenshot here)
