@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
-//products added
+
 function Product() {
 
   const [message, setMessage] = useState("");
