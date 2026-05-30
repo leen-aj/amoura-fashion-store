@@ -1,6 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-//jfdkldf
-//jdskf
+
 function Thanks() {
 
   return (
