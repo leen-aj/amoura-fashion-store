@@ -1,70 +1,105 @@
-# Getting Started with Create React App
+# Amoura Fashion Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
 
-## Available Scripts
+Amoura Fashion Store is a React-based online fashion shopping website. Users can browse products, add items to the cart, save favorites to a wishlist, take a personalized style quiz, check recommended outfits, enter body measurements to find their size, and complete purchases through the checkout page.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
-s
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Product catalog by category
+- Shopping cart with quantity updates
+- Wishlist management
+- Style quiz with recommendations
+- Outfit suggestions
+- Measurement and size guide
+- Checkout page
+- Responsive design
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Local Storage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Setup Instructions
 
-### `npm run build`
+1. Clone the repository:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/leen-aj/amoura-fashion-store.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Open the project folder:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+cd fashionstore
+```
 
-### `npm run eject`
+3. Install dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm install
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Run the project:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. Open:
 
-## Learn More
+```text
+http://localhost:3000
+```
+## Live Demo
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Website Link:
+https://amour-fashionstore.netlify.app/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Screenshots
 
-### Code Splitting
+### Home Page
+<img width="1353" height="618" alt="homepage1" src="https://github.com/user-attachments/assets/71fecb4d-5d16-4f11-947c-16787cd98b04" />
+<img width="1348" height="640" alt="homepage2" src="https://github.com/user-attachments/assets/2f81ffef-5384-46e4-bd71-1ca5f1c79d0e" />
+<img width="1342" height="642" alt="homepage3" src="https://github.com/user-attachments/assets/5580cca8-6aae-45cb-983b-c376b4adbc1b" /> 
+<img width="1334" height="624" alt="homepage4" src="https://github.com/user-attachments/assets/cee58425-452f-48bd-8986-c2f29a32349e" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Products Page
+<img width="1348" height="639" alt="products1" src="https://github.com/user-attachments/assets/69608d59-384d-4ae8-8375-6b1c497396e3" />
+<img width="1341" height="638" alt="products2" src="https://github.com/user-attachments/assets/530dd2d4-ab15-4fdc-ab51-83daec1c3437" />
+<img width="1336" height="635" alt="products3" src="https://github.com/user-attachments/assets/925369af-4b18-4a83-a983-c151e2319b69" />
+<img width="1228" height="623" alt="products4" src="https://github.com/user-attachments/assets/7256cced-c54e-453b-a2a1-6d9445933775" />
 
-### Analyzing the Bundle Size
+### Cart Page
+<img width="1345" height="631" alt="cart1" src="https://github.com/user-attachments/assets/746fce87-109c-4988-921f-d61412f62fc7" />
+<img width="1343" height="631" alt="cart2" src="https://github.com/user-attachments/assets/050f9278-104a-47a5-98b8-ca4b2bd9609b" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Wishlist Page
+<img width="1341" height="634" alt="wishlist" src="https://github.com/user-attachments/assets/5907199b-7c3c-42ba-abff-fba9e6182dee" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Style Quiz Page
+<img width="1349" height="636" alt="quiz1" src="https://github.com/user-attachments/assets/a612e384-93af-4eaf-823c-75c311d8b28d" /> 
+<img width="1314" height="624" alt="quiz2" src="https://github.com/user-attachments/assets/084f3318-d0b8-4ad6-8240-757fa8ee0fc6" />
 
-### Advanced Configuration
+### Measurements Page
+<img width="1353" height="633" alt="measurement1" src="https://github.com/user-attachments/assets/2617d864-598d-47a0-8c84-74fcce508719" />
+<img width="1321" height="613" alt="measurement2" src="https://github.com/user-attachments/assets/7a57869a-5d81-434a-ab86-6f8435a2bb52" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Account Page
+<img width="1329" height="626" alt="account" src="https://github.com/user-attachments/assets/ec2ac3ac-d2a4-4a67-a994-2f86636ec048" />
 
-### `npm run build` fails to minify
+### Checkout Page
+<img width="1350" height="627" alt="checkout" src="https://github.com/user-attachments/assets/3dec8817-c05b-4859-aa21-b9d6f819ab38" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Thanks Page
+<img width="1347" height="633" alt="thanks" src="https://github.com/user-attachments/assets/4c5bd60b-243b-4377-ae16-beb9771fcf9b" />
+
+
+
