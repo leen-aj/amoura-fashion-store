@@ -1,4 +1,4 @@
-// Home page completed
+
 import { Link } from "react-router-dom";
 
 function Home() {
