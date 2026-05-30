@@ -466,3 +466,28 @@ footer {
           hue-rotate(287deg) brightness(103%)
           contrast(101%);
 }
+.navbar {
+  background: black !important;
+  border-bottom: 2px solid #ffb6d9;
+}
+
+.navbar-brand {
+  color: #ffb6d9 !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.nav-link:hover {
+  color: #ffb6d9 !important;
+}
+
+.btn-pink {
+  background: #ffb6d9;
+  color: black;
+}
+
+.icons a {
+  font-size: 20px;
+}
