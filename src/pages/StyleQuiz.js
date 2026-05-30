@@ -496,6 +496,6 @@ function StyleQuiz() {
     </div>
   );
 }
-//ghrijeokhf
-//hjeklwkjh
+          
+
 export default StyleQuiz;
