@@ -228,6 +228,5 @@ function Measurement() {
     </div>
   );
 }
-//hgfrhjk
-//ghjk
+
 export default Measurement;
